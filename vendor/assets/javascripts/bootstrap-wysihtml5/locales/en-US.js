@@ -13,9 +13,13 @@
     $.fn.wysihtml5.locale["ja-JP"] = {
         font_styles: {
             normal: "通常の文字",
-            h1: "見出し1",
-            h2: "見出し2",
-            h3: "見出し3"
+            h1: "H1",
+            h2: "H2",
+            h3: "H3",
+            h4: "H4",
+            h5: "H5",
+            h6: "H6",
+            p: "段落"
         },
         emphasis: {
             bold: "太字",
